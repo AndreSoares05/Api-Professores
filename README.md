@@ -2,7 +2,7 @@
 
 ## Identificação
 
-- **Aluno:** [Marcos Andre dos Santos Soares]
+- **Aluno:** Marcos Andre dos Santos Soares
 - **Descrição:** API REST para cadastro e gerenciamento de professores, com CRUD completo e filtros por nome e área, desenvolvida com Spring Boot, Spring Data JPA e PostgreSQL.
 
 ## Tecnologias utilizadas
