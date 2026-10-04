@@ -94,7 +94,7 @@ INSERT INTO professor (nome, email, area, telefone) VALUES
 
 ### Caso 6 — Excluir professor
 
-`DELETE /professores/{id}` e o resultado da exclusão.
+`DELETE /professores/{id}` 
 
 [<img width="1021" height="192" alt="excluir png" src="https://github.com/user-attachments/assets/2f2de22d-f0e5-46e1-9d93-2aec4c372d69" />
 ]
